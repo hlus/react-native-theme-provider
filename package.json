@@ -1,7 +1,9 @@
 {
   "name": "react-native-theme-provider",
+  "author": "hlus",
+  "license": "MIT",
   "description": "Provide provider for use theme in whole application, and use context consumer.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "react-native start",
